@@ -17,4 +17,7 @@
 [Sample 3 timbre transfer](audio/timbretransfer3.wav) 
 
 [Sample 4](audio/testnsf4.wav) (Piano performance) 
-
+[Sample 4 pitch extraction](audio/pitchextract4.wav)  
+[Sample 4 resynthesis](audio/resynthesis4.wav)  
+[Sample 4 pitch shift](audio/pitchshift4.wav)  
+[Sample 4 timbre transfer](audio/timbretransfer4.wav) 
