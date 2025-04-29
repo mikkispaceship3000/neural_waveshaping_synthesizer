@@ -1,11 +1,20 @@
 [Sample 1](audio/testnsf.wav) (AI generated voice)  
-[Sample 1 pitch extraction](audio/pitchextract1.wav)
+[Sample 1 pitch extraction](audio/pitchextract1.wav)  
+[Sample 1 resynthesis](audio/resynthesis1.wav)  
+[Sample 1 pitch shift](audio/pitchshift1.wav)  
+[Sample 1 timbre transfer](audio/timbretransfer1.wav) 
 
-[Sample 2](audio/testnsf2.wav) (Real human speaker) 
-[Sample 2 pitch extraction](audio/pitchextract2.wav)
+[Sample 2](audio/testnsf2.wav) (Real human speaker)  
+[Sample 2 pitch extraction](audio/pitchextract2.wav)  
+[Sample 2 resynthesis](audio/resynthesis2.wav)  
+[Sample 2 pitch shift](audio/pitchshift2.wav)  
+[Sample 2 timbre transfer](audio/timbretransfer2.wav) 
 
-[Sample 3](audio/testnsf3.wav) (Synthesized bassline) 
-[Sample 3 pitch extraction](audio/pitchextract3.wav)
+[Sample 3](audio/testnsf3.wav) (Synthesized bassline)   
+[Sample 3 pitch extraction](audio/pitchextract3.wav)  
+[Sample 3 resynthesis](audio/resynthesis3.wav)  
+[Sample 3 pitch shift](audio/pitchshift3.wav)  
+[Sample 3 timbre transfer](audio/timbretransfer3.wav) 
 
 [Sample 4](audio/testnsf4.wav) (Piano performance) 
 
