@@ -1,3 +1,5 @@
+Paper: [Neural_Waveshaping_Synthesizer.pdf](https://github.com/user-attachments/files/21903178/Neural_Waveshaping_Synthesizer.pdf)
+
 [Sample 1](audio/testnsf.wav) (AI generated voice)  
 [Sample 1 pitch extraction](audio/pitchextract1.wav)  
 [Sample 1 resynthesis](audio/resynthesis1.wav)  
@@ -21,3 +23,4 @@
 [Sample 4 resynthesis](audio/resynthesis4.wav)  
 [Sample 4 pitch shift](audio/pitchshift4.wav)  
 [Sample 4 timbre transfer](audio/timbretransfer4.wav) 
+
